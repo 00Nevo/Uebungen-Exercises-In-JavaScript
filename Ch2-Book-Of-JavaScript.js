@@ -1,7 +1,5 @@
 2
-U S I N G V A R I A B L E S A N D B U I L T - I N
-F U N C T I O N S T O U P D A T E Y O U R W E B
-P A G E S A U T O M A T I C A L L Y
+Using Variables and Built-in Functions to Update Your Web Pages Automatically
 
 Variables Store Information
   Syntax of Variables
@@ -31,7 +29,6 @@ Summary
 Assignment
 
 3
-G I V I N G T H E B R O W S E R S
-WHAT THEY WANT
+ Giving the Browsers What They Want
 
 
